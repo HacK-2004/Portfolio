@@ -18,7 +18,7 @@ export default function About() {
         <div className="relative flex justify-center mb-16">
           <div className="absolute inset-0 bg-gradient-to-r from-indigo-600 via-purple-600 to-teal-500 rounded-full blur-lg opacity-20"></div>
           <img
-            src="https://via.placeholder.com/200"
+            src="https://media.licdn.com/dms/image/v2/D4E35AQGJy13RwhyEyA/profile-framedphoto-shrink_400_400/B4EZUaGaP3G0Ac-/0/1739899643216?e=1748419200&v=beta&t=U1yadr5n4zvnMZfe26xU8TZueVuY5LnnYsr4HZaf94A"
             alt="Profile"
             className="rounded-full transform hover:scale-110 transition duration-300 shadow-lg relative z-10 border-4 border-white w-48 h-48 object-cover"
           />
