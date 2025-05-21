@@ -129,7 +129,7 @@ export default function About() {
             opportunities to be part of your vision.
           </p>
           <a
-            href="#contact"
+            href="\nodebox\src\components\Contact.js"
             className="inline-block bg-white text-indigo-600 px-8 py-3 rounded-lg font-semibold text-lg hover:bg-opacity-90 transition-colors duration-200"
           >
             Get in Touch
